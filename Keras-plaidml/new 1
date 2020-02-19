@@ -1,0 +1,188 @@
+C:\Users\Teilnehmer.BBQTEIL-HV16HBF>clinfo
+Number of platforms:                             2
+  Platform Profile:                              FULL_PROFILE
+  Platform Version:                              OpenCL 1.2
+  Platform Name:                                 Intel(R) OpenCL
+  Platform Vendor:                               Intel(R) Corporation
+  Platform Extensions:                           cl_khr_fp64 cl_khr_icd cl_khr_global_int32_base_atomics cl_khr_global_int32_extended_atomics cl_khr_local_int32_base_atomics cl_khr_local_int32_extended_atomics cl_khr_byte_addressable_store cl_intel_printf cl_ext_device_fission cl_intel_exec_by_local_thread cl_khr_gl_sharing cl_intel_dx9_media_sharing cl_khr_dx9_media_sharing cl_khr_d3d11_sharing
+  Platform Profile:                              FULL_PROFILE
+  Platform Version:                              OpenCL 2.0 AMD-APP (1912.5)
+  Platform Name:                                 AMD Accelerated Parallel Processing
+  Platform Vendor:                               Advanced Micro Devices, Inc.
+  Platform Extensions:                           cl_khr_icd cl_khr_d3d10_sharing cl_khr_d3d11_sharing cl_khr_dx9_media_sharing cl_amd_event_callback cl_amd_offline_devices
+
+
+  Platform Name:                                 Intel(R) OpenCL
+Number of devices:                               1
+  Device Type:                                   CL_DEVICE_TYPE_CPU
+  Vendor ID:                                     8086h
+  Max compute units:                             4
+  Max work items dimensions:                     3
+    Max work items[0]:                           1024
+    Max work items[1]:                           1024
+    Max work items[2]:                           1024
+  Max work group size:                           1024
+  Preferred vector width char:                   1
+  Preferred vector width short:                  1
+  Preferred vector width int:                    1
+  Preferred vector width long:                   1
+  Preferred vector width float:                  1
+  Preferred vector width double:                 1
+  Native vector width char:                      16
+  Native vector width short:                     8
+  Native vector width int:                       4
+  Native vector width long:                      2
+  Native vector width float:                     8
+  Native vector width double:                    4
+  Max clock frequency:                           3200Mhz
+  Address bits:                                  64
+  Max memory allocation:                         4284731392
+  Image support:                                 Yes
+  Max number of images read arguments:           480
+  Max number of images write arguments:          480
+  Max image 2D width:                            16384
+  Max image 2D height:                           16384
+  Max image 3D width:                            2048
+  Max image 3D height:                           2048
+  Max image 3D depth:                            2048
+  Max samplers within kernel:                    480
+  Max size of kernel argument:                   3840
+  Alignment (bits) of base address:              1024
+  Minimum alignment (bytes) for any datatype:    128
+  Single precision floating point capability
+    Denorms:                                     Yes
+    Quiet NaNs:                                  Yes
+    Round to nearest even:                       Yes
+    Round to zero:                               No
+    Round to +ve and infinity:                   No
+    IEEE754-2008 fused multiply-add:             No
+  Cache type:                                    Read/Write
+  Cache line size:                               64
+  Cache size:                                    262144
+  Global memory size:                            17138925568
+  Constant buffer size:                          131072
+  Max number of constant args:                   480
+  Local memory type:                             Global
+  Local memory size:                             32768
+  Kernel Preferred work group size multiple:     128
+  Error correction support:                      0
+  Unified memory for Host and Device:            1
+  Profiling timer resolution:                    100
+  Device endianess:                              Little
+  Available:                                     Yes
+  Compiler available:                            Yes
+  Execution capabilities:
+    Execute OpenCL kernels:                      Yes
+    Execute native function:                     Yes
+  Queue on Host properties:
+    Out-of-Order:                                Yes
+    Profiling :                                  Yes
+  Platform ID:                                   0000028441892250
+  Name:                                                  Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz
+  Vendor:                                        Intel(R) Corporation
+  Device OpenCL C version:                       OpenCL C 1.2
+  Driver version:                                3.0.1.10891
+  Profile:                                       FULL_PROFILE
+  Version:                                       OpenCL 1.2 (Build 76427)
+  Extensions:                                    cl_khr_fp64 cl_khr_icd cl_khr_global_int32_base_atomics cl_khr_global_int32_extended_atomics cl_khr_local_int32_base_atomics cl_khr_local_int32_extended_atomics cl_khr_byte_addressable_store cl_intel_printf cl_ext_device_fission cl_intel_exec_by_local_thread cl_khr_gl_sharing cl_intel_dx9_media_sharing cl_khr_dx9_media_sharing cl_khr_d3d11_sharing
+
+
+  Platform Name:                                 AMD Accelerated Parallel Processing
+Number of devices:                               1
+  Device Type:                                   CL_DEVICE_TYPE_CPU
+  Vendor ID:                                     1002h
+  Board name:
+  Max compute units:                             4
+  Max work items dimensions:                     3
+    Max work items[0]:                           1024
+    Max work items[1]:                           1024
+    Max work items[2]:                           1024
+  Max work group size:                           1024
+  Preferred vector width char:                   16
+  Preferred vector width short:                  8
+  Preferred vector width int:                    4
+  Preferred vector width long:                   2
+  Preferred vector width float:                  8
+  Preferred vector width double:                 4
+  Native vector width char:                      16
+  Native vector width short:                     8
+  Native vector width int:                       4
+  Native vector width long:                      2
+  Native vector width float:                     8
+  Native vector width double:                    4
+  Max clock frequency:                           3193Mhz
+  Address bits:                                  64
+  Max memory allocation:                         4284731392
+  Image support:                                 Yes
+  Max number of images read arguments:           128
+  Max number of images write arguments:          64
+  Max image 2D width:                            8192
+  Max image 2D height:                           8192
+  Max image 3D width:                            2048
+  Max image 3D height:                           2048
+  Max image 3D depth:                            2048
+  Max samplers within kernel:                    16
+  Max size of kernel argument:                   4096
+  Alignment (bits) of base address:              1024
+  Minimum alignment (bytes) for any datatype:    128
+  Single precision floating point capability
+    Denorms:                                     Yes
+    Quiet NaNs:                                  Yes
+    Round to nearest even:                       Yes
+    Round to zero:                               Yes
+    Round to +ve and infinity:                   Yes
+    IEEE754-2008 fused multiply-add:             Yes
+  Cache type:                                    Read/Write
+  Cache line size:                               64
+  Cache size:                                    32768
+  Global memory size:                            17138925568
+  Constant buffer size:                          65536
+  Max number of constant args:                   8
+  Local memory type:                             Global
+  Local memory size:                             32768
+  Max pipe arguments:                            16
+  Max pipe active reservations:                  16
+  Max pipe packet size:                          4284731392
+  Max global variable size:                      1879048192
+  Max global variable preferred total size:      1879048192
+  Max read/write image args:                     64
+  Max on device events:                          0
+  Queue on device max size:                      0
+  Max on device queues:                          0
+  Queue on device preferred size:                0
+  SVM capabilities:
+    Coarse grain buffer:                         No
+    Fine grain buffer:                           No
+    Fine grain system:                           No
+    Atomics:                                     No
+  Preferred platform atomic alignment:           0
+  Preferred global atomic alignment:             0
+  Preferred local atomic alignment:              0
+  Kernel Preferred work group size multiple:     1
+  Error correction support:                      0
+  Unified memory for Host and Device:            1
+  Profiling timer resolution:                    100
+  Device endianess:                              Little
+  Available:                                     Yes
+  Compiler available:                            Yes
+  Execution capabilities:
+    Execute OpenCL kernels:                      Yes
+    Execute native function:                     Yes
+  Queue on Host properties:
+    Out-of-Order:                                No
+    Profiling :                                  Yes
+  Queue on Device properties:
+    Out-of-Order:                                No
+    Profiling :                                  No
+  Platform ID:                                   00007FFE4DF3E188
+  Name:                                                  Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz
+  Vendor:                                        GenuineIntel
+  Device OpenCL C version:                       OpenCL C 1.2
+  Driver version:                                1912.5 (sse2,avx)
+  Profile:                                       FULL_PROFILE
+  Version:                                       OpenCL 1.2 AMD-APP (1912.5)
+  Extensions:                                    cl_khr_fp64 cl_amd_fp64 cl_khr_global_int32_base_atomics cl_khr_global_int32_extended_atomics cl_khr_local_int32_base_atomics cl_khr_local_int32_extended_atomics cl_khr_int64_base_atomics cl_khr_int64_extended_atomics cl_khr_3d_image_writes cl_khr_byte_addressable_store cl_khr_gl_sharing cl_ext_device_fission cl_amd_device_attribute_query cl_amd_vec3 cl_amd_printf cl_amd_media_ops cl_amd_media_ops2 cl_amd_popcnt cl_khr_d3d10_sharing cl_khr_spir cl_khr_gl_event
+
+
+
+C:\Users\Teilnehmer.BBQTEIL-HV16HBF>
